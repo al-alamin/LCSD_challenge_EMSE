@@ -1,0 +1,17 @@
+schema_version: 1
+summary: A journal-study replication package analyzing low-code practitioners’ challenges
+  in Stack Overflow discussions.
+state: unknown
+intended_readers:
+- Researchers reproducing the low-code practitioners challenge journal study.
+consult_when:
+- Understanding research-question replication materials, topic modeling or popularity/difficulty
+  methodology.
+watch_when:
+- Changes to research methodology, Codes/ or the documented replication-material organization.
+current_capabilities:
+- README maps the study research questions to filtering/topic-modeling code, annotation
+  materials and popularity/difficulty workbooks.
+- Codes/ and the named top-level supporting material are tracked; dataset contents
+  and reported results were not independently evaluated.
+planned_capabilities: []
